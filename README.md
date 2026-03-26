@@ -19,4 +19,6 @@
 ### 📊 GitHub Stats
 ![my GitHub stats]([https://github-readme-stats.vercel.app/api?username=mohamed-medhat-dev&show_icons=true&theme=radical](https://github-readme-stats.vercel.app/api?username=mohamed-medhat-dev&show_icons=true&theme=radical&count_private=true))
 
-📫 **How to reach me:** [Your LinkedIn Profile Link]
+📫 **How to reach me:** [www.linkedin.com/in/mohamed-medhat-dev
+
+]
