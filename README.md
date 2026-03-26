@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi there, I'm Mohamed Medhat 👋
+### Flutter & Firebase Developer | Building Scalable Business Solutions
 
-<!--
-**mohamed-medhat-dev/mohamed-medhat-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 📱 I specialize in creating high-performance cross-platform apps.
+- 🚀 Current Project: **BiteNext Ecosystem** (Customer, Admin, and Support apps).
+- 🛠️ Tech Stack: **Flutter, Dart, Firebase, REST APIs, Git**.
+- 🌍 Based in Cairo, Egypt.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ My Skills
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) 
+![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) 
+![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+
+---
+
+### 📊 GitHub Stats
+![Mohamed's GitHub stats](https://github-readme-stats.vercel.app/api?username=mohamed-medhat-dev&show_icons=true&theme=radical)
+
+📫 **How to reach me:** [Your LinkedIn Profile Link]
