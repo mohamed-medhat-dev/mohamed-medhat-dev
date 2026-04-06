@@ -20,8 +20,8 @@
 
 ### 📫 Connect & Collaborate
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-medhat-dev)
-[![Freelancer](https://img.shields.io/badge/Freelancer-Work_With_Me-29B2FE?style=for-the-badge&logo=freelancer&logoColor=white)]([رابط_حسابك_في_فريلانسر](https://www.freelancer.com/u/MohameddMedhatt))
-[![Mostaql](https://img.shields.io/badge/Mostaql-Work_With_Me-blue?style=for-the-badge)](رابط_حسابك_في_مستقل)
+[![Freelancer](https://img.shields.io/badge/Freelancer-Work_With_Me-29B2FE?style=for-the-badge&logo=freelancer&logoColor=white)](https://www.freelancer.com/u/MohameddMedhatt))
+[![Mostaql](https://img.shields.io/badge/Mostaql-Work_With_Me-blue?style=for-the-badge)]((https://mostaql.com/u/mohamed_meedhat))
 
 ---
 *“I don’t just write code; I engineer systems that scale with your vision.”*
